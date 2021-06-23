@@ -17,6 +17,7 @@ Fonctionnalités à ajouter / modifier en date du 23 juin 2021
  - corriger les fautes d'orthographe
  - finir les textes
  - ajouter les photos
+ - ouverture des liens dans une nouvelle fenêtre
 
  ***********************************************************************
  
